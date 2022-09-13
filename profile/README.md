@@ -1,10 +1,9 @@
-## Hi there 👋
+<img src="https://skillicons.dev/icons?i=unity,cs,visualstudio">
 
+<h1 > Game development course 2022 </h1>
 
+This organization contains several repositories dedicated to game development classes. Therefore, there is a repository for each class. <br/>
 
-
-🙋‍♀️ A short introduction - ? <br/>
-🌈 Contribution guidelines - how can the community get involved?<br/>
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?<br/>
-🍿 Fun facts - what does your team eat for breakfast?<br/>
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+<p align="center">
+<img src="https://c.tenor.com/8YihXbjggcQAAAAC/game-design-fool.gif">
+</p>
